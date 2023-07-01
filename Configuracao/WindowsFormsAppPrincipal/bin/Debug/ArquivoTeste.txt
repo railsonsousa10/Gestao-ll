@@ -1,0 +1,4 @@
+Texto a ser gravado no arquivo
+Texto a ser gravado no arquivo
+Usuário abriu o sistema
+Mais um teste de gravação no arquivo
