@@ -1,0 +1,12 @@
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\bin\Debug\Models.dll
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\bin\Debug\Models.pdb
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\obj\Debug\Models.dll
+C:\Users\erisvaldo\Documents\Git\ErisvaldoCarvalho\Base\Configuracao\Models\obj\Debug\Models.pdb
+C:\Users\nsistema\Desktop\Configuracao\Models\bin\Debug\Models.dll
+C:\Users\nsistema\Desktop\Configuracao\Models\bin\Debug\Models.pdb
+C:\Users\nsistema\Desktop\Configuracao\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\nsistema\Desktop\Configuracao\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\nsistema\Desktop\Configuracao\Models\obj\Debug\Models.dll
+C:\Users\nsistema\Desktop\Configuracao\Models\obj\Debug\Models.pdb
